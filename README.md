@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepKross
-- 👀 I’m interested in C++, JS, HTML5/CSS and other stuff
-- 🌱 I’m currently learning JavaScript
+- 👀 I have skills in C++, C#, JS, HTML5/CSS, Python and SQLite. 
+- 🌱 I’m currently learning GoLang.
 - 📫 How to reach me:
 - email: volkermischa@gmail.com
 - telegram: @DeepKross
