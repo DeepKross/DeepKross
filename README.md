@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepKross
-- 👀 I have skills in C++, C#, JS, HTML5/CSS, Python and SQLite. 
-- 🌱 I’m currently learning GoLang.
+- 👀 I have skills in C++, C#, JS, React, Node.js, HTML5/CSS, Python and SQLite. 
+- 🌱 I’m currently learning FrontEnd/BackEnd.
 - 📫 How to reach me:
 - email: volkermischa@gmail.com
 - telegram: @DeepKross
