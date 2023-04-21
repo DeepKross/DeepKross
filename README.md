@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeepKross
-- 👀 I have skills in C++, C#, JS, React, Node.js, HTML5/CSS, Python and SQLite. 
+- 👀 I have skills in C++, JS, TypeScript, React, Node.js and HTML5/CSS. 
 - 🌱 I’m currently learning FrontEnd/BackEnd.
 - 📫 How to reach me:
-- email: volkermischa@gmail.com
+- email: volkermischa@gmail.com / tanchukmisha@knu.ua
 - telegram: @DeepKross
 
 <!---
