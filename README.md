@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DeepKross
 - 👀 Please see my [resume](https://homepage-psi-lilac.vercel.app/). 
-- 🌱 I’m currently learning FrontEnd/BackEnd.
-- 📫 How to reach me:
-- email: volkermischa@gmail.com / tanchukmisha@knu.ua
-- telegram: @DeepKross
+- 📫 Feel free to contact me at any time:
+- email: volkermischa@gmail.com
+- telegram: @MykhailoTanchuk
